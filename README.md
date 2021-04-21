@@ -1,5 +1,17 @@
 # EX_MARKDOWN
 
+### 10. 표
+|번호|아이디|이름|레벨|이메일|등록일|
+|-------|-------|-------|-------|-------|-------|
+|1|tjdus|김서연|1|6ruijuan@gmail.com|09:00|
+|2|**tjdus**|김서연|1|6ruijuan@gmail.com|09:00|
+|3|tjdus|김서연|1|6ruijuan@gmail.com|09:00|
+|4|tjdus|김서연|1|6ruijuan@gmail.com|09:00|
+|5|tjdus|김서연|1|6ruijuan@gmail.com|09:00|
+
+### 9. 이미지 넣기
+![기본설계서](https://github.com/jjinrj/EX_MARKDOWN/blob/main/last.png)
+
 ### 8. 강조
 **Spring** framework  
 *Spring* framework
